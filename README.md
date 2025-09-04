@@ -1,4 +1,4 @@
-# 🔐 Intelligent Credit Card Fraud Prevention System
+# 🔐 Machine Learning Based Credit Card Fraud Detection System
 
 <div align="center">
 
@@ -24,7 +24,7 @@ An intelligent machine learning system for detecting fraudulent credit card tran
 
 ### 🤖 Machine Learning Capabilities
 - **8 Advanced ML Models**: Logistic Regression, SVM, KNN, Random Forest, Decision Tree, Gradient Boosting, XGBoost, AdaBoost
-- **4 Prediction Methods**: Single Model, Weighted Ensemble, Sequential, Majority Voting
+- **3 Prediction Methods**: Ensemble, Weighted, Sequential
 - **Real-time Detection**: Sub-500ms prediction response time
 - **Imbalanced Data Handling**: Specialized algorithms for fraud detection
 - **Model Accuracy**: 99%+ accuracy on credit card datasets
@@ -248,8 +248,6 @@ This repository contains implementations and utilities for various popular machi
 | `gb`            | Gradient Boosting       | Sequentially builds trees to minimize errors and improve predictions.       |
 | `xgb`           | XGBoost                 | Scalable and optimized implementation of gradient boosting.                 |
 | `adaboost`      | AdaBoost                | Boosting technique combining weak classifiers to create a strong classifier.|
-| `brf`           | Balanced Random Forest  | Random Forest adapted for imbalanced datasets by balancing classes.         |
-| `easy_ensemble` | Easy Ensemble           | Ensemble method using balanced subsets to handle imbalanced classification. |
 
 
 
@@ -514,7 +512,9 @@ python -m pytest
 
 ### 🚀 Live Demo
 <div align="center">
-<img src="screenshots/demo.mp4" alt="Live Demo" width="800">
+<video width="800" controls>
+  <source src="screenshots/demo.mp4" type="video/mp4">
+</video>
 <p><em>Live demonstration of fraud detection system in action</em></p>
 </div>
 
