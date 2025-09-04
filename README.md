@@ -514,7 +514,7 @@ python -m pytest
 
 ### 🚀 Live Demo
 <div align="center">
-<img src="screenshots/live-demo.mp4" alt="Live Demo" width="800">
+<img src="screenshots/demo.mp4" alt="Live Demo" width="800">
 <p><em>Live demonstration of fraud detection system in action</em></p>
 </div>
 
