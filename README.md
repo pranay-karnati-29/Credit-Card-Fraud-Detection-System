@@ -514,6 +514,7 @@ python -m pytest
 <div align="center">
 <video width="800" controls>
   <source src="screenshots/demo.mp4" type="video/mp4">
+  <source src="screenshots/demo.ogg" type="video/ogg">
 </video>
 <p><em>Live demonstration of fraud detection system in action</em></p>
 </div>
