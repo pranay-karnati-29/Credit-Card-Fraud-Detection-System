@@ -36,7 +36,7 @@ This Code of Conduct applies within all project spaces, and also applies when an
 
 ## Enforcement
 
-Instances of abusive, harassing, or otherwise unacceptable behavior may be reported to the project maintainers at [hossain.stu2018@juniv.edu](mailto:hossain.stu2018@juniv.edu).  
+Instances of abusive, harassing, or otherwise unacceptable behavior may be reported to the project maintainers at [2303031250158@paruluniversity.ac.in](mailto:2303031250158@paruluniversity.ac.in).  
 All complaints will be reviewed and investigated promptly and fairly.
 
 All project maintainers are obligated to respect the privacy and security of the reporter of any incident.
